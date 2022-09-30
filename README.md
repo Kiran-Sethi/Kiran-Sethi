@@ -10,4 +10,3 @@ Other days I love exploring different tech-stacks and building tools.
 - Playing with data on <a href="https://www.kaggle.com/kiransethi"> Kaggle</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/kiran-sethi-b590b2115/">LinkedIn</a> 💼
 
-You can always [reach](sethikiran1995@gmail.com) me out.
